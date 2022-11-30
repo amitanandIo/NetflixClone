@@ -73,16 +73,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Project Description
 Project: Netflix clone
 
-Aim: At that time I was wondering how these big giants might have created their websites, millions of users are visiting their sites on daily basis.
-So I made this project just to check my abilities whether I am able to replicate it.
+Project: Netflix clone
 
-Component Interaction: I have used HTML, CSS, React for frontend part all of these are interacting with virtual DOM(Document Object Model) and for hosting and Backend part I have used little bit Node as an NPM.
- 
-Tech Used:  I have made an project named Netflix clone using technologies like HTML, CSS, JavaScript, React, Firebase, And Node.js.
+Aim: At that time I was wondering how these big giants might have created their websites, millions of users are visiting their sites daily. So I made this project to check my abilities and whether I am able to replicate them.
 
-Specific Role: I have done this project individually but I have my friend to interact and solve my technical doubt so this is not that I haven't worked in team, All of us worked like a team and interact with each other for our personal projects. 
+Component Interaction: I have used HTML, CSS, and React for the frontend part all of these are interacting with virtual DOM(Document Object Model) and for hosting and the Backend part I have used a little bit of Node as an NPM.
 
-Long term goal:  I have used a YouTube trailer button in my project on which if user will click then he/she can watch the trailer of that movie on YouTube so we can see all the movies on a single free platform which is completely free.
-I am proud to say that my college-friends also use this website when they are going to watch the movie.
+Tech Used: I have made a project named Netflix clone using technologies like HTML, CSS, JavaScript, React, Firebase, And Node.js.
 
-Scope: As we know that there is always a scope of improvement so I think that I can use some new features like I want to make a Discussion type of platform where users can discuss about the movie.
+Specific Role: I have done this project individually but I have my friend to interact and solve my technical doubt so this is not that I haven't worked in a team, All of us worked like a team and interacted with each other for our personal projects.
+
+Long-term goal: I have used a YouTube trailer button in my project on which if the user will click then he/she can watch the trailer of that movie on YouTube so we can see all the movies on a single free platform which is completely free. I am proud to say that my college friends also use this website when they are going to watch movies.
+
+Scope: As we know that there is always a scope for improvement so I can use some new features I want to make a Discussion type of platform where users can discuss the movie.
